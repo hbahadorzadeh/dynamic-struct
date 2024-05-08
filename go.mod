@@ -1,1 +1,1 @@
-module github.com/ompluscator/dynamic-struct
+module github.com/hbahadorzadeh/dynamic-struct
